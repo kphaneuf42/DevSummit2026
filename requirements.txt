@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+pandas
+openai
+arcgis
+scikit-learn
+shapely
+geopandas

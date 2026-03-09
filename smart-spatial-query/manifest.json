@@ -1,0 +1,22 @@
+{
+  "name": "smart-spatial-query",
+  "label": "Smart Spatial Query",
+  "type": "widget",
+  "version": "1.19.0",
+  "exbVersion": "1.19.0",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "author": "Krystal Phaneuf",
+  "description": "Custom Experience Builder widget for AI-driven spatial query filtering.",
+  "copyright": "",
+  "license": "",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 400,
+    "height": 220
+  }
+}

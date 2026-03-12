@@ -4,8 +4,8 @@ This FastAPI app and widget allows you to enter natural language and request spa
 ## Setup Instructions
 1. Obtain OpenAI API key
 2. Create a web map with the following layers:
-    https://services5.arcgis.com/54falWtcpty3V47Z/arcgis/rest/services/SalesForce311_View/FeatureServer/0
-    https://services5.arcgis.com/54falWtcpty3V47Z/arcgis/rest/services/Schools/FeatureServer/0
+    [Sacramento 311 Calls](https://services5.arcgis.com/54falWtcpty3V47Z/arcgis/rest/services/SalesForce311_View/FeatureServer/0)
+    [Sacramento Schools](https://services5.arcgis.com/54falWtcpty3V47Z/arcgis/rest/services/Schools/FeatureServer/0)
 4. `conda create -n spatialapi python=3.11`
 5. `conda activate spatialapi`
 6. `pip install -r requirements.txt`
